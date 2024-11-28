@@ -15,7 +15,8 @@ This ETL (Extract, Transform, Load) mini project is a one-week collaborative eff
 ## Usage Guide
 
 ### 1. Running the Analysis
-Steps 1, 2, 3 and 4 are all achieved by running all in the .ipynb file
+Steps 1, 2, 3 and 4 are all achieved by running all in the .ipynb file.
+
 To guarantee that your environment is compatible run the following in your terminal:
 ```sh
 pip install -r requirements.txt
