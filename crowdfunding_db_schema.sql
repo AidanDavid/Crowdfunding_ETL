@@ -34,3 +34,8 @@ CREATE TABLE campaign (
     FOREIGN KEY (category_id) REFERENCES category(category_id),
     FOREIGN KEY (subcategory_id) REFERENCES subcategory(subcategory_id)
 );
+
+SELECT * FROM contacts LIMIT 5;
+SELECT * FROM category LIMIT 5;
+SELECT * FROM subcategory LIMIT 5;
+SELECT * FROM campaign LIMIT 5;
